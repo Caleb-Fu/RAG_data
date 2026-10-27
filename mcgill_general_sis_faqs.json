@@ -1,0 +1,177 @@
+[
+  {
+    "id": "sis_faq_001",
+    "category": "Security and Confidentiality",
+    "question": "What data elements are confidential?",
+    "answer": "All of a student’s record is confidential. This includes personal information such as name, student identification number, permanent code, address data, citizenship information, social insurance number, birth date, immigration information, as well as academic data such as degree obtained, course registration, grades, grade point average, etc. Documents that are stored in the imaging systems normally contain personal, hence confidential, information.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_002",
+    "category": "Security and Confidentiality",
+    "question": "Can I look up student data for a friend or if I’m curious about how a student is doing?",
+    "answer": "Student data are confidential and should only be accessed in support of legitimate business processes or with the explicit permission of the student. For example: you are not allowed to look up the advising transcript of a student in your class because you are curious to see how well she or he is doing in other classes.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_003",
+    "category": "Security and Confidentiality",
+    "question": "If I am taking a course, can I query or update my own record?",
+    "answer": "Users who may have administrative rights to student records should never use those rights to access their own records. Changing your own record is a clear offence.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_004",
+    "category": "Security and Confidentiality",
+    "question": "Can I post the grades for student?",
+    "answer": "Student data, including grades, marked examinations, etc. should never be posted or shared in any public forum (via the Web, on office doors, in classrooms, or otherwise).",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_005",
+    "category": "Security and Confidentiality",
+    "question": "Can I include confidential information in an e-mail?",
+    "answer": "E-mail containing confidential data should be used only with the greatest care, as it can be easily misdirected or forwarded to unintended recipients. In general, e-mail that is sent between McGill users on the McGill Exchange server is secure as the e-mail never leaves the server. In general, e-mails sent to or from other mail servers are considered vulnerable.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_006",
+    "category": "Security and Confidentiality",
+    "question": "Can I store downloaded data locally on my hard drive, flash drive, CD, etc.?",
+    "answer": "Confidential data should never be stored on local hard drives of personal computers. This includes Minerva reports, ad-hoc requests, data from the Web query form, lists generated from the data warehouse, lists from Banner or Minerva forms, documents stored on the imaging system, etc. If it is necessary to store or download data, secure central servers (such as those housed at Network Communication Systems - NCS) should always be used. Only designated University offices are permitted to transmit student data to bodies or agencies outside of the University. For example: unless you are one of the authorized offices, you may not confirm that a student is registered at McGill without the student’s explicit permission. You may not provide any lists or reports containing any student data to outside agencies.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_007",
+    "category": "Security and Confidentiality",
+    "question": "Can I share my passwords or Username & Banner ID?",
+    "answer": "Users should never share their Username/Banner ID or passwords for any system (Banner, Minerva, data warehouse, etc.). If you no longer need access to certain student data, you should ask for the relevant permissions to be withdrawn. If you become aware of particular unsafe practices or system vulnerabilities, you should notify your department or faculty security delegate.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_008",
+    "category": "Access, Usernames and Passwords",
+    "question": "I need access to the Student Information system (Banner, Minerva, Imaging, etc.). Who do I contact",
+    "answer": "All requests must be signed off and approved by your Manager and Security Designate for your area. A list of Security Designates can be found at https://www.mcgill.ca/es/sisforms/designates. You will need to fill out the Web request form and indicate the appropriate Security Designate who will approve the access.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_009",
+    "category": "Access, Usernames and Passwords",
+    "question": "Do I need a Banner ID for access?",
+    "answer": "Yes, if you are accessing functions on any of our central systems such as INB (Banner), Minerva, Imaging, etc",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_010",
+    "category": "Access, Usernames and Passwords",
+    "question": "How do I get a Banner ID?",
+    "answer": "You will need to take the GEN 300 Banner Intro Training course. After you have taken the course, a Banner ID will be created for you. Further information on Training is available at https://www.mcgill.ca/inb/.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_011",
+    "category": "Access, Usernames and Passwords",
+    "question": "What if I have not received my user I.D. and password?",
+    "answer": "Information on your user I.D. should have already been provided to you. If you have not received these instructions, you will need to call the ICS Service Desk at (514) 398-3398.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_012",
+    "category": "Access, Usernames and Passwords",
+    "question": "I am asked to enter a new password when I first log into Banner. Is this normal?",
+    "answer": "Yes, your initial password expires the first time you log into Banner. You must enter a new password in order to use Banner.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_013",
+    "category": "Access, Usernames and Passwords",
+    "question": "I need to access Banner and Minerva for the first time, does it matter which system I access first?",
+    "answer": "Yes. If you are a first-time user, you need to log into Banner with user I.D. and password structure that was provided to you. You will then need to renew your password. Only then can you access Minerva (with your new password).",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_014",
+    "category": "Access, Usernames and Passwords",
+    "question": "What do I do if I forget my Banner or Minerva password?",
+    "answer": "If you forget your password, you will need to have it reset by calling ICS Service Desk at (514) 398-3398.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_015",
+    "category": "Access, Usernames and Passwords",
+    "question": "Do I need to enter anything in the « Database » field on the Banner login page?",
+    "answer": "While you could leave the database field empty, it is recommended to enter “banner.mcgill.ca” without the double quotes.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_016",
+    "category": "Access, Usernames and Passwords",
+    "question": "Can I change my Banner password?",
+    "answer": "Yes. You can modify your password directly in Banner or Minerva under the personal menu.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_017",
+    "category": "Access, Usernames and Passwords",
+    "question": "What is a security role?",
+    "answer": "A security role is a collection of predefined access rights grouped by a job role/theme under one security role",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_018",
+    "category": "Access, Usernames and Passwords",
+    "question": "Which security role should I select?",
+    "answer": "We have done our best to group/theme access. We have also described activities in each role that we believe should help you and your manager determine which security role is best fit for you (link to table)",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_019",
+    "category": "Training and Requesting Access",
+    "question": "How do I request access to Minerva and/or Banner?",
+    "answer": "If you need access to Student Information System in Minerva and/or Banner, you must complete this online SIS Authorization form https://www.mcgill.ca/es/sis-authorization-form. The SIS Authorization PDF form is no longer in circulation and will no longer be processed.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_020",
+    "category": "Training and Requesting Access",
+    "question": "What information do I need to know in order to fill in a Student Information System access request?",
+    "answer": "In order to successfully complete the online request form, you must have on hand\n- Your McGill ID, and your McGill email address\n- Your manager’s name and email address\n- The type of access you need. For more details go to https://www.mcgill.ca/es/sisforms/access-roles",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_021",
+    "category": "Training and Requesting Access",
+    "question": "Will my existing access (prior to the change) be altered when requesting additional access?",
+    "answer": "No, your previous access will remain unchanged unless you had changed job/department.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_022",
+    "category": "Training and Requesting Access",
+    "question": "I am new in my department and the role I need is not listed, how do I make a request?",
+    "answer": "You will still have to complete the Online SIS Authorization form except, in this case you must select “Other” from “I work in” found in 2nd page.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_023",
+    "category": "Training and Requesting Access",
+    "question": "What do I do if I need access to more than one role at faculty and department level?",
+    "answer": "In most cases, you would need access to a single role. However, there are occasions where one needs access to more than one security role. If this is the case, you must complete fill in the online form for each security role level.",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_024",
+    "category": "Training and Requesting Access",
+    "question": "Which training must I take to be able to fulfill my Student Information System (SIS) related duties?",
+    "answer": "Student Information System training is designed provide you with what you need to know to be able to perform your duties. For a complete list of training required for your security role, go to https://www.mcgill.ca/es/sisforms/access-roles",
+    "links": ""
+  },
+  {
+    "id": "sis_faq_025",
+    "category": "General Queries",
+    "question": "Who do I contact if I have questions regarding SIS Security?",
+    "answer": "If you have a general questions regarding access to Student Information System, you can contact us via this form https://www.mcgill.ca/es/sis-security-general-questions. For other questions you may wish to consult with you SIS Security Designate https://www.mcgill.ca/es/sisforms/designates.",
+    "links": ""
+  }
+]
